@@ -14,7 +14,7 @@ import com.vaibhav.registration_login.model.User;
 import com.vaibhav.registration_login.service.UserService;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/")
 public class MyController {
 	
 	@Autowired
